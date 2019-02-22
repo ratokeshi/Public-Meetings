@@ -19,3 +19,8 @@ Dial: 67.217.95.2##921902341
 Cisco devices: 921902341@67.217.95.2
 
 First GoToMeeting? Let's do a quick system check: https://link.gotomeeting.com/system-check
+
+
+GDG Cloud PHX / myCUGC: presentation https://docs.google.com/presentation/d/1SHR4VqLY6jHO2lrP98qzyqfpsc3CeTJggzxYdrK0Pzg/edit?usp=sharing
+https://github.com/GoogleCloudPlatform/citrix-on-gcp
+https://github.com/citrix/citrix-k8s-ingress-controller
