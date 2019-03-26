@@ -24,3 +24,8 @@ First GoToMeeting? Let's do a quick system check: https://link.gotomeeting.com/s
 GDG Cloud PHX / myCUGC: presentation https://docs.google.com/presentation/d/1SHR4VqLY6jHO2lrP98qzyqfpsc3CeTJggzxYdrK0Pzg/edit?usp=sharing
 https://github.com/GoogleCloudPlatform/citrix-on-gcp
 https://github.com/citrix/citrix-k8s-ingress-controller
+
+# Free Stuff / Support refferals:
+$100 Free Digital Ocean Credits: https://m.do.co/c/d8c9d7ebfee5
+Lyft: Promocode ROY775869
+Support Arizona Chess Central 501(c)(3) by getting and receiving free transactions on Square: https://squareup.com/i/ARIZONACHE
