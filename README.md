@@ -8,7 +8,7 @@ Hands on labs:
 + GAB 2019 Science Lab instructions: https://github.com/intelequia/GAB2019ScienceLab
 + https://globalonlineazurebootcamp.wordpress.com/
 + https://www.youtube.com/channel/UCr0DoDaJd7rYWTTo9n_BuQg
-+
++ Citrix on Azure https://enablenguat.citrix.com/library/items/schedule/8524
 Pizza Lunch at 12pm
 
 Breakouts in 102  Lecture in 110
