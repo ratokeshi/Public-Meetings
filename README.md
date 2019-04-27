@@ -4,11 +4,14 @@
 Giveaways: https://1drv.ms/b/s!AtlOLVUpl5kqg8xpxhU2c_gaA2MK7w
 Hands on labs: 
 + Citrix on Azure: https://www.citrix.com/global-partners/microsoft/azure.html
++ Citrix on Azure: Hands on Lab https://enablenguat.citrix.com/library/items/schedule/8524
 + Global Azure Science Lab 2019 https://global.azurebootcamp.net/global-azure-science-lab-2019/
 + GAB 2019 Science Lab instructions: https://github.com/intelequia/GAB2019ScienceLab
 + https://globalonlineazurebootcamp.wordpress.com/
 + https://www.youtube.com/channel/UCr0DoDaJd7rYWTTo9n_BuQg
-+ Citrix on Azure https://enablenguat.citrix.com/library/items/schedule/8524
+
+
+
 Pizza Lunch at 12pm
 
 Breakouts in 102  Lecture in 110
