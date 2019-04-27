@@ -1,5 +1,14 @@
 # Public-Meetings
 
+# Global Azure Bootcamp
+Giveaways: https://1drv.ms/b/s!AtlOLVUpl5kqg8xpxhU2c_gaA2MK7w
+Hands on labs: 
++ Citrix on Azure: https://www.citrix.com/global-partners/microsoft/azure.html
++ Global Azure Science Lab 2019 https://global.azurebootcamp.net/global-azure-science-lab-2019/
++ GAB 2019 Science Lab instructions: https://github.com/intelequia/GAB2019ScienceLab
+
+
+
 # CUGC - Phoenix
 
 Please join my meeting from your computer, tablet or smartphone.
