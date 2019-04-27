@@ -9,7 +9,15 @@ Hands on labs:
 + https://globalonlineazurebootcamp.wordpress.com/
 + https://www.youtube.com/channel/UCr0DoDaJd7rYWTTo9n_BuQg
 +
+Pizza Lunch at 12pm
 
+Breakouts in 102  Lecture in 110
+
+If your topic is missing create a post it and put it up.
+
+If your topic is there sign up and note any conflict times.
+
+For extra entry at giveaways: tweet #globalazure @chandlergilbert
 
 
 # CUGC - Phoenix
