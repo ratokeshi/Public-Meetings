@@ -6,6 +6,9 @@ Hands on labs:
 + Citrix on Azure: https://www.citrix.com/global-partners/microsoft/azure.html
 + Global Azure Science Lab 2019 https://global.azurebootcamp.net/global-azure-science-lab-2019/
 + GAB 2019 Science Lab instructions: https://github.com/intelequia/GAB2019ScienceLab
++ https://globalonlineazurebootcamp.wordpress.com/
++ https://www.youtube.com/channel/UCr0DoDaJd7rYWTTo9n_BuQg
++
 
 
 
