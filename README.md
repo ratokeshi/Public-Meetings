@@ -1,5 +1,22 @@
 # Public-Meetings
 
+# AI/ML DevFest
+Please go to: https://go.qwiklabs.com/cloud-study-jams-2019
+You may need to open a browser tab in Incognito mode.
+
+Pick a track and click “enroll”. Enter your study jam code: 1s-phoenix-2225
+
+The code will get your attendees (and you) free access to the labs for 30 days. The code will ONLY be active on the day of your event, 28th September, 2019. 
+
+Be sure to continue their quest to get a 2nd free month of Qwiklabs.
+
+Additionally, get a free month of access to a course of their choice. Feel free to guide your attendees to a course relevant to your study jam topics!
+http://bit.ly/study-jam-coursera
+
+If you have issues please let us know at Support@Qwiklabs.com. Happy study jamming!
+If you need temporary access to credits while support replies, 
+
+
 # Global Azure Bootcamp
 Giveaways: https://1drv.ms/b/s!AtlOLVUpl5kqg8xpxhU2c_gaA2MK7w
 Hands on labs: 
