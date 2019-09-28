@@ -14,7 +14,7 @@ Additionally, get a free month of access to a course of their choice. Feel free 
 http://bit.ly/study-jam-coursera
 
 If you have issues please let us know at Support@Qwiklabs.com. Happy study jamming!
-If you need temporary access to credits while support replies, 
+If you need temporary access to credits while support replies, go to this form: https://forms.gle/R6x3jvVnzAhnGhUbA
 
 
 # Global Azure Bootcamp
