@@ -16,6 +16,12 @@ http://bit.ly/study-jam-coursera
 If you have issues please let us know at Support@Qwiklabs.com. Happy study jamming!
 If you need temporary access to credits while support replies, go to this form: https://forms.gle/R6x3jvVnzAhnGhUbA
 
+To make the labs easier to access on single monitor systems:
+Cloud-Shell-APIs-Explorer-Qwik-Start-gsp277 https://github.com/ratokeshi/Cloud-Shell-APIs-Explorer-Qwik-Start-gsp277
+Cloud-Shell-Cloud-ML-Engine-Qwik-Start https://github.com/ratokeshi/Cloud-Shell-Cloud-ML-Engine-Qwik-Start
+Cloud-Shell-GSP037-Detect-Labels-Faces-and-Landmarks-in-Images-with-the-Cloud-Vision-API https://github.com/ratokeshi/Cloud-Shell-GSP037-Detect-Labels-Faces-and-Landmarks-in-Images-with-the-Cloud-Vision-API
+
+
 
 # Global Azure Bootcamp
 Giveaways: https://1drv.ms/b/s!AtlOLVUpl5kqg8xpxhU2c_gaA2MK7w
